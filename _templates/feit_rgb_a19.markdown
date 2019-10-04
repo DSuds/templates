@@ -17,5 +17,6 @@ OM60/RGBW/CA/AG, ([Amazon](https://www.amazon.com/FEIT-OM60-RGBW-CA-AG/dp/B07GG9
 BPA800/RGBW/AG/2 ([Costco](https://www.costco.com/FEIT-WiFi-Smart-Bulbs-4-pack.product.100417461.html))
 
 SYW-A19RGBWAGT1 (Also on the bulbs from Costco)
+Note that newer versions of this bulb operate differently.  These bulbs different FCC IDs, for example SYW-A19RGBWAGT2
 
 https://fccid.io/SYW-A19RGBWAGT1/Letter/Differences-Description-4018522.pdf
